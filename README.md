@@ -10,11 +10,4 @@
 - Pytorch 1.13.1
 - torchvision 0.4.2
 - numpy 1.19.2
-
-## 项目结构
-### 数据集
-
-## 项目运行
-
-
-## 项目结果
+- matplotlib 3.3.2
